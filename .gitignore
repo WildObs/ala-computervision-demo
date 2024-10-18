@@ -1,0 +1,6 @@
+/media
+.DS_Store
+/annotated
+/runs
+train.ipynb
+yolo11n.pt
